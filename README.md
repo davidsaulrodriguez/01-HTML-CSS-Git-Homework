@@ -9,8 +9,13 @@ _The initial commit contains the original code base._
 
 ---
 
+**View the refactored webpage live:** [Horiseon - Refactored Demo][demo]
+---
+
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
 ![code refactor demo](./screenshots/01-html-css-git-homework-demo.png)
+
+[demo]: https://davidsaulrodriguez.github.io/01-HTML-CSS-Git-Homework/
